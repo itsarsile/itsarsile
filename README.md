@@ -1,6 +1,6 @@
 ## itsarsile
 ---
-Hey, glad you visited my repository👋. Consider giving a star if one of my code help you through your coding journey! 
+Hey, glad you visited my repository👋. Consider giving a star 🌟 if one of my code help you through your coding journey! 
 
 I suggest you to check out one of my repo::
 - [Advent Of Code in JS/TS](https://github.com/itsarsile/aoc-js-2021) - a collection of my personal aoc task in order to learn and adapt with the programming language. note: I use TS for most of it.
@@ -11,9 +11,3 @@ I suggest you to check out one of my repo::
 	- [Hiring Web App](https://github.com/itsarsile/hiring_web_app-ts)- still has lot of bugs need to be fixed.
 - Configuration File
 	- [Neovim Configuration](https://github.com/itsarsile/kickstart.nvim)
-
-
-
----
-## Connect with me
-![https://www.linkedin.com/in/ajiprio/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
