@@ -2,7 +2,7 @@
 ---
 Hey, glad you visited my repository👋. Consider giving a star 🌟 if one of my code help you through your coding journey! 
 
-I suggest you to check out one of my repo::
+I suggest you to check out one of my repo:
 - [Advent Of Code in JS/TS](https://github.com/itsarsile/aoc-js-2021) - a collection of my personal aoc task in order to learn and adapt with the programming language. note: I use TS for most of it.
 - Pijar Bootcamp Related Project
 	- [e-Commerce App](https://github.com/itsarsile/blanja-next)- a first project from bootcamp to introduce a React library
