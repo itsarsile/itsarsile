@@ -19,7 +19,4 @@ Currently learning
 - [Algorithm Course](https://frontendmasters.com/courses/algorithms/) by Primeagen on Frontend Masters
 ---
 Activities stats
-Languages
-```html
 <figure><embed src="https://wakatime.com/share/@d4dd77e5-5372-4126-ab01-2661c6fdd402/2b6de8d9-51b6-4938-bdc3-e877d6df0b35.svg"></embed></figure>
-```
