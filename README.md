@@ -17,3 +17,8 @@ Currently learning
 - Typescript -[ Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) [Exercism](https://exercism.org/tracks/typescript) [Advent of Code](https://adventofcode.com/2021)
 - DevOps Engineering by diCoding (powered by [IDCamp](idcamp.ioh.co.id/))
 - [Algorithm Course](https://frontendmasters.com/courses/algorithms/) by Primeagen on Frontend Masters
+
+
+===
+Activities stats
+<figure><embed src="https://wakatime.com/share/@d4dd77e5-5372-4126-ab01-2661c6fdd402/093c0af3-0e03-4173-888f-30bb4cd14499.svg"></embed></figure>
