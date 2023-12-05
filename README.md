@@ -11,6 +11,8 @@ I suggest you to check out one of my repo::
 	- [Hiring Web App](https://github.com/itsarsile/hiring_web_app-ts)- still has lot of bugs need to be fixed.
 - Configuration File
 	- [Neovim Configuration](https://github.com/itsarsile/kickstart.nvim)
+- Personal Project
+  	- [PaztG Design Web Portfolio](https://paztg.design)
 ---
 Currently learning
 - Rust - [Official Book](https://doc.rust-lang.org/stable/book/) [Exercism](https://exercism.org/tracks/rust)
