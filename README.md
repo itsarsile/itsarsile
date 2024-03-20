@@ -17,7 +17,6 @@ I suggest you to check out one of my repo::
 Currently learning
 - Rust - [Official Book](https://doc.rust-lang.org/stable/book/) [Exercism](https://exercism.org/tracks/rust)
 - Typescript -[ Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) [Exercism](https://exercism.org/tracks/typescript) [Advent of Code](https://adventofcode.com/2021)
-- DevOps Engineering by diCoding (powered by [IDCamp](idcamp.ioh.co.id/))
 - [Algorithm Course](https://frontendmasters.com/courses/algorithms/) by Primeagen on Frontend Masters
 ---
 Activities stats
