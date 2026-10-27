@@ -3,8 +3,6 @@
 Hey, glad you visited my repository👋. Consider giving a star if one of my code help you through your coding journey! 
 
 I suggest you to check out one of my repo::
-- [Compiler Journal](https://github.com/itsarsile/compiler-journal) - a repository that contains my journey to learn how to write a compiler. (I'll update this every week)
-- [Advent Of Code in JS/TS](https://github.com/itsarsile/aoc-js-2021) - a collection of my personal aoc task in order to learn and adapt with the programming language. note: I use TS for most of it.
 - Pijar Bootcamp Related Project
 	- [e-Commerce App](https://github.com/itsarsile/blanja-next)- a first project from bootcamp to introduce a React library
 	- [Team Project as Backend Engineer && Product Manager](https://github.com/itsarsile/food_recipe_be) - Learned scrum technique as well as trying new technology such as Supabase.
